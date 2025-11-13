@@ -1,10 +1,4 @@
-Lamentablemente, como modelo de lenguaje, **no puedo generar directamente un archivo para descargar** (como un `.zip`, un `.txt` o un `.md`). Mi interacción se limita a enviar texto.
 
-Sin embargo, puedo darte el contenido exacto del archivo **`README.md`** en formato de bloque de código, que es la mejor manera de asegurarte de que lo copies sin errores.
-
-Simplemente, copia el texto completo del bloque de abajo y pégalo en un nuevo archivo llamado **`README.md`** en la raíz de tu proyecto `LibraryPOO-Ex`.
-
-````markdown
 # 📚 Library Management System API (Backend)
 
 ## 📌 Project Overview

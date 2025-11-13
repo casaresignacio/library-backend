@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>LibraryPOO</groupId>
-	<artifactId>LibraryPOO-Ex</artifactId>
+	<artifactId>library-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>LibraryPOO-Ex</name>
 	<description>Demo project for Spring Boot</description>
